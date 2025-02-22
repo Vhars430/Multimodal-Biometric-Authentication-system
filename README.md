@@ -1,7 +1,8 @@
 # Multimodal-Biometric-Authentication-system
 This is a Deep Learning-based Biometric Authentication System leveraging TensorFlow, PyTorch, CNN,
 and Hugging Face Transformers using facial recognition integrated with AWS S3 for cloud-based authentication.
-#Workflow of the System
+
+# Workflow of the System
 User Registration:
 
 The user’s facial image is captured and preprocessed.
