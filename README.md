@@ -1,4 +1,4 @@
-# Multimodal-Biometric-Authentication-system
+# Biometric-Authentication-system using Facial Recognition
 This biometric authentication system leverages deep learning techniques to verify identities using facial recognition. It integrates with AWS S3 (cloud storage) for storing and managing user data securely.
 
 
